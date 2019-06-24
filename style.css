@@ -1,0 +1,416 @@
+.icons {
+    border-bottom: 0.5px solid gray;
+    width: auto;
+    padding-top: 25px;
+}
+
+.img1 {
+    position: absolute;
+    left: 100px;
+}
+
+.img2 {
+    position: absolute;
+    left: 300px;
+}
+
+.img3 {
+    position: absolute;
+    top: 3px;
+    left: 500px;
+}
+
+.img4 {
+    position: absolute;
+    left: 1200px;
+}
+
+
+.logo {
+    position: absolute;
+    left: 130px;
+}
+
+.buttons {}
+
+.home {
+    position: absolute;
+    left: 400px;
+    top: 60px;
+    font-family: 'Bree Serif', serif;
+    color: gray;
+    font-size: 19px;
+    -webkit-transition: color 0.8s 0.1s ease;
+}
+
+.home:hover{
+    color: crimson;
+}
+
+.pag {
+    position: absolute;
+    left: 500px;
+    top: 60px;
+    font-family: 'Bree Serif', serif;
+    color: gray;
+    font-size: 19px;
+    -webkit-transition: color 0.8s 0.1s ease;
+}
+
+.pag:hover{
+    color: crimson;
+}
+
+.port {
+    position: absolute;
+    left: 600px;
+    top: 60px;
+    font-family: 'Bree Serif', serif;
+    color: gray;
+    font-size: 19px;
+    -webkit-transition: color 0.8s 0.1s ease;
+}
+
+.port:hover{
+    color: crimson;
+}
+
+.shop {
+    position: absolute;
+    left: 719px;
+    top: 60px;
+    font-family: 'Bree Serif', serif;
+    color: gray;
+    font-size: 19px;
+    -webkit-transition: color 0.8s 0.1s ease;
+}
+
+.shop:hover{
+    color: crimson;
+}
+
+.blog {
+    position: absolute;
+    left: 800px;
+    top: 60px;
+    font-family: 'Bree Serif', serif;
+    color: gray;
+    font-size: 19px;
+    -webkit-transition: color 0.8s 0.1s ease;
+}
+
+.blog:hover{
+    color: crimson;
+}
+
+.code {
+    position: absolute;
+    left: 900px;
+    top: 60px;
+    font-family: 'Bree Serif', serif;
+    color: gray;
+    font-size: 19px;
+    -webkit-transition: color 0.8s 0.1s ease;
+}
+
+.code:hover{
+    color: crimson;
+}
+
+.feat {
+    position: absolute;
+    left: 1050px;
+    top: 60px;
+    font-family: 'Bree Serif', serif;
+    color: gray;
+    font-size: 19px;
+    -webkit-transition: color 0.8s 0.1s ease;
+}
+
+.feat:hover{
+    color: crimson;
+}
+
+.lupa{
+    position: absolute;
+    left: 1190px;
+    top: 60px;
+}
+
+.lupa:hover{
+    color: aquamarine;
+    width: 100px;
+    height: 100px;
+    -webkit-transition: 0.6s 0.1s ease;
+}
+
+.center{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.tel{
+    position: absolute;
+    top: 110px;
+    left: 500px;
+    z-index: 999;
+}
+
+h1{
+    font-family: 'Bree Serif', serif;
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 200px;
+    left: 980px;
+    z-index: 999;
+}
+
+p{
+    font-family: 'Bree Serif', serif;
+    color: black;
+    font-size: 18px;
+    position: absolute;
+    left: 1000px;
+    top: 250px;
+    z-index: 999;
+}
+
+.k1{
+    position: absolute;
+    top: 1000px;
+    left: 500px;
+    border-radius: 50%;
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+}
+
+.k2{
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+    border-radius: 50%;
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+}
+
+.k3{
+    position: absolute;
+    top: 1000px;
+    left:800px;
+    border-radius: 50%;
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+}
+
+.k4{
+    position: absolute;
+    top: 1000px;
+    left: 950px;
+    border-radius: 50%;
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+}
+
+.kk1{
+    font-family: 'Bree Serif', serif;
+    color: black;
+    font-size: 15px;
+}
+
+.poisk{
+    position: absolute;
+    left: 1220px;
+    top: 56px;
+    background-color: grey;
+    font-family: 'Bree Serif', serif;
+    color: white;
+}
+
+.kk2,.kk3,.kk4{
+    font-family: 'Bree Serif', serif;
+    color: black;
+    font-size: 15px;
+    position: absolute;
+    left: 100px;
+}
+
+footer{
+    position: absolute;
+    top: 1560px;
+    font-family: 'Bree Serif', serif;
+}
+
+.reklama{
+    position: absolute;
+    top: 1400px;
+    left: 450px;
+}
+.kn1{
+    border: 1px solid black;
+    font-family: 'Bree Serif', serif;
+    font-size: 20px;
+    color: black;
+    background-color: cadetblue;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    float: right;
+}
+
+
+#slider { /*положение слайдера*/
+    position: absolute;
+    top: 400px;
+}
+#slider{ /*центровка слайдера*/
+	margin: 100px;
+    position: absolute;
+    top: 3000px;
+}
+
+#slides article{ /*все изображения справа друг от доруга*/
+	width: 20%;
+	float: left;
+}
+
+#slides .image{ /*устанавливает общий размер блока с изображениями*/
+	width: 500%;
+	line-height: 0;
+}
+
+#overflow{ /*сркывает все, что находится за пределами этого блока*/
+	width: 100%;
+	overflow: hidden;
+}
+
+article img{ /*размер изображений слайдера*/
+	width: 100%;
+}
+
+#desktop:checked ~ #slider{ /*размер всего слайдера*/
+	max-width: 1000px; /*максимальнная длинна*/
+}
+
+/*настройка переключения и положения для левой стрелки*/
+/*если свич1-5 активны, то идет обращение к лейблу из блока с id контролс*/
+#switch1:checked ~ #controls label:nth-child(5), 
+#switch2:checked ~ #controls label:nth-child(1),
+#switch3:checked ~ #controls label:nth-child(2),
+#switch4:checked ~ #controls label:nth-child(3),
+#switch5:checked ~ #controls label:nth-child(4){
+	background: url('prev.png') no-repeat; /*заливка фона картинкой без повторений*/
+	float: left;
+	margin: 0 0 0 -84px; /*сдвиг влево*/
+	display: block;
+	height: 68px;
+	width: 68px;
+}
+
+/*настройка переключения и положения для правой стрелки*/
+#switch1:checked ~ #controls label:nth-child(2), 
+#switch2:checked ~ #controls label:nth-child(3),
+#switch3:checked ~ #controls label:nth-child(4),
+#switch4:checked ~ #controls label:nth-child(5),
+#switch5:checked ~ #controls label:nth-child(1){
+	background: url('next.png') no-repeat; /*заливка фона картинкой без повторений*/
+	float: right;
+	margin: 0 -84px 0 0; /*сдвиг вправо*/
+	display: block;
+	height: 68px;
+	width: 68px;
+}
+
+label, a{ /*при наведении на стрелки или переключатели - курсор изменится*/
+	cursor: pointer;
+}
+
+.all input{ /*скрывает стандартные инпуты (чекбоксы) на странице*/
+	display: none;
+}
+
+/*позиция изображения при активации переключателя*/
+#switch1:checked ~ #slides .image{
+	margin-left: 0;
+}
+
+#switch2:checked ~ #slides .image{
+	margin-left: -100%;
+}
+
+#switch3:checked ~ #slides .image{
+	margin-left: -200%;
+}
+
+#switch4:checked ~ #slides .image{
+	margin-left: -300%;
+}
+
+#switch5:checked ~ #slides .image{
+	margin-left: -400%;
+}
+
+#controls{ /*положение блока всех управляющих элементов*/
+	margin: -25% 0 0 0;
+	width: 100%;
+	height: 50px;
+}
+
+#active label{ /*стиль отдельного переключателя*/
+	border-radius: 10px; /*скругление углов*/
+	display: inline-block; /*расположение в строку*/
+	width: 15px;
+	height: 15px;
+	background: #bbb;
+}
+
+#active{ /*расположение блока с переключателями*/
+	margin: 23% 0 0;
+	text-align: center;
+}
+
+#active label:hover{ /*поведение чекбокса при наведении*/
+	background: #76c8ff;
+	border-color: #777 !important; /*выполнение в любом случае*/
+}
+
+/*цвет активного лейбла при активации чекбокса*/
+#switch1:checked ~ #active label:nth-child(1),
+#switch2:checked ~ #active label:nth-child(2),
+#switch3:checked ~ #active label:nth-child(3),
+#switch4:checked ~ #active label:nth-child(4),
+#switch5:checked ~ #active label:nth-child(5){
+	background: #18a3dd;
+	border-color: #18a3dd !important;
+}
+
+#slides .image{ /*анимация пролистывания изображений*/
+	transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000);
+}
+
+#controls label:hover{ /*прозрачность стрелок при наведении*/
+	opacity: 0.6;
+}
+
+#controls label{ /*прозрачность стрелок при отводе курсора*/
+	transition: opacity 0.2s ease-out;
+}
+
+.kn1{
+    font-family: 'Bree Serif', serif;
+    font-size: 15px;
+    background-color: cadetblue;
+    opacity: 0.8;
+    z-index: 999;
+    position: absolute;
+    top: 400px;
+    left: 1000px;
+}
+
+.kn1:hover{
+    color: white;
+}
